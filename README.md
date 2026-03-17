@@ -1,4 +1,4 @@
-👋 Hi, I'm **Euan Williams**  
+**Euan Williams**  
 ### 📊 Aspiring Data Analyst | Transforming Data Into Actionable Insights  
 
 ---
@@ -97,8 +97,8 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: *Add your link here*  
-- 📧 Email: *Add your email here*  
+- 💼 LinkedIn: https://www.linkedin.com/in/euan-williams-081755232/   
+- 📧 Email: euanwilliams9822@gmail.com 
 
 ---
 
