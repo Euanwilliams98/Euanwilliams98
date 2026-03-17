@@ -5,13 +5,13 @@
 
 ## 🧰 Tech Stack  
 
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![](https://img.shields.io/badge/-217346?logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/-E97627?logo=tableau&logoColor=white)
+![](https://img.shields.io/badge/-4479A1?logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-0078D4?logo=microsoft-azure&logoColor=white)
+![](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-150458?logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/-F2C811?logo=powerbi&logoColor=black)
 
 ---
 
