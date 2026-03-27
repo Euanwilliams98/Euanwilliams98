@@ -1,5 +1,6 @@
-**Euan Williams**  
+**Euan Williams**
 ### 📊 Aspiring Data Analyst | Transforming Data Into Actionable Insights  
+Hi, my name is Euan Williams i hold a Bachelor of Science in Visual Effects and have experience in data migration and CRM management. Recently, I completed an 8-week Data Technician Skills Bootcamp with LeepTalent, where I strengthened my skills in SQL, Excel, Power BI, and Tableau. I’m passionate about transforming data into actionable insights and am seeking a role in Data or Business Intelligence to continue developing my skills. Let’s connect!
 
 ---
 
